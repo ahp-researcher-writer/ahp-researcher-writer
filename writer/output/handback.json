@@ -1,0 +1,11 @@
+{
+  "objective": "Write a 300-word explainer on what MCP is, for CS students.",
+  "gaps": [
+    "Need more authoritative sources detailing MCP architecture components (hosts, clients, servers) and the data flow between them.",
+    "Need concrete definitions or examples of MCP's JSON-RPC interface and the transports it uses (e.g., stdio, Streamable HTTP).",
+    "Need more up-to-date information on MCP releases and the deprecation of features beyond the 2026-07-28 note (for example, any newer changes, migrations, or schemas).",
+    "Need current information on how many production MCP servers exist today (production footprint)."
+  ],
+  "draft_so_far": {},
+  "created_at": "2026-11-23T19:39:35.849209+00:00"
+}
