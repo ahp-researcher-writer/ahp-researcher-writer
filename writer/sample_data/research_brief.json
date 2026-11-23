@@ -1,0 +1,26 @@
+{
+  "objective": "What is the Model Context Protocol (MCP) and how is it built?",
+  "findings": [
+    {
+      "claim": "MCP connects an LLM application to external context and capabilities. Its core architecture has hosts, clients and servers.",
+      "source_url": "https://modelcontextprotocol.io/docs/2026-07-28/learn/architecture",
+      "source_title": "MCP architecture overview",
+      "note": "SAMPLE DATA for testing the writer, taken from how the AHP README describes MCP. Replace with real researcher output."
+    },
+    {
+      "claim": "MCP servers expose resources, prompts and tools through JSON-RPC, over transports such as stdio and Streamable HTTP.",
+      "source_url": "https://modelcontextprotocol.io/docs/2026-07-28/learn/architecture",
+      "source_title": "MCP architecture overview",
+      "note": "Same source as above."
+    },
+    {
+      "claim": "The MCP 2026-07-28 release deprecated MCP's sampling feature for new MCP implementations.",
+      "source_url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "source_title": "MCP 2026-07-28 release post",
+      "note": "AHP v1 still reuses MCP's SamplingMessage data shape, pinned to an earlier schema version."
+    }
+  ],
+  "open_questions": [
+    "How many production MCP servers exist today?"
+  ]
+}
