@@ -10,7 +10,7 @@ from datetime import datetime
 from typing_extensions import Annotated, List, Literal
 import os
 from dotenv import load_dotenv
-
+import traceback
 load_dotenv()
 
 from langchain.chat_models import init_chat_model 
@@ -25,8 +25,8 @@ from prompt import summarize_webpage_prompt
 # ===== UTILITY FUNCTIONS =====
 
 def get_today_str() -> str:
-    """Get current date in a human-readable format."""
-    return datetime.now().strftime("%a %b %-d, %Y")
+    now = datetime.now()
+    return f"{now:%a %b} {now.day}, {now:%Y}"
 
 def get_current_dir() -> Path:
     """Get the current directory of the module.
@@ -119,6 +119,7 @@ def summarize_webpage_content(webpage_content: str) -> str:
 
     except Exception as e:
         print(f"Failed to summarize webpage: {str(e)}")
+        traceback.print_exc()
         return webpage_content[:1000] + "..." if len(webpage_content) > 1000 else webpage_content
 
 def deduplicate_search_results(search_results: List[dict]) -> dict:
@@ -141,27 +142,12 @@ def deduplicate_search_results(search_results: List[dict]) -> dict:
     return unique_results
 
 def process_search_results(unique_results: dict) -> dict:
-    """Process search results by summarizing content where available.
 
-    Args:
-        unique_results: Dictionary of unique search results
-
-    Returns:
-        Dictionary of processed results with summaries
-    """
     summarized_results = {}
-
     for url, result in unique_results.items():
-        # Use existing content if no raw content for summarization
-        if not result.get("raw_content"):
-            content = result['content']
-        else:
-            # Summarize raw content for better processing
-            content = summarize_webpage_content(result['raw_content'])
-
         summarized_results[url] = {
             'title': result['title'],
-            'content': content
+            'content': result['content']
         }
 
     return summarized_results

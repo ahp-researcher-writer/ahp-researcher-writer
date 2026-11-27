@@ -1,288 +1,56 @@
+# Overview of the Three Branches of Islam
 
-## Research Queries and Tool Calls
+## Introduction
 
-**Query 1:** "best coffee shops San Francisco coffee quality specialty coffee 2024 2025"  
-**Query 2:** "best espresso specialty coffee roasters San Francisco ranked coffee quality review"  
-**Query 3:** "San Francisco coffee shops best beans single origin pour over espresso 2025"
+The three main branches of Islam are generally presented as Sunni Islam, Shia Islam, and Ibadi Islam. A neutral and fact-based overview requires attention to historical origins, key split events, core theological and legal differences, major schools of jurisprudence, approximate global population shares, and main geographic distributions. The research brief asks for reliance on scholarly or authoritative sources such as academic publications, Pew Research, and reputable encyclopedias, while avoiding favoritism among the branches. Dimensions not explicitly specified in the brief, such as specific modern political contexts, comparative theology with other religions, or detailed intra-branch sectarian variations beyond the major schools, should be treated as open considerations rather than assumed requirements.
 
----
+## Historical Origins and Key Split Events
 
-## Fully Comprehensive Findings
+### Historical Origins of the Sunni-Shia Split
 
-### Overview of the San Francisco Coffee Scene
+The historical split between Sunni and Shia branches of Islam originated from political tensions following the death of the Prophet Muhammad. The roots of the Sunni-Shia divide can be traced to the seventh century, soon after the death of the Prophet Muhammad in A.D. 632. The divide originated with a dispute over who should succeed the Prophet Muhammad as leader of the Islamic faith he introduced. While most of Muhammad’s followers thought that other elite members of the Islamic community should choose his successor, a smaller group believed only someone from Muhammad’s family—namely his cousin and son-in-law, Ali—should succeed him. This group became known as the followers of Ali; in Arabic the Shiat Ali, or simply Shia. The split outlines differing beliefs regarding leadership and legitimacy within the Islamic community. The first key milestone was the rise of the Safavid dynasty in the 16th century, which transformed Iran through force from a Sunni center into the Shia stronghold of the Middle East. In the early 20th century, the victorious Allies divided the territory held by the former Ottoman Empire after World War I, cutting through centuries-old religious and ethnic lines. The split between Sunni and Shia agree on most of the fundamental beliefs and practices of Islam. The bitter split between the two main sects within Islam goes back some 14 centuries. The events that led to the schism within the Muslim community included the assassination of the Rashidun caliphs Umar, Uthman and Ali, the war of succession, the killing of Ali’s son Husain in Karbala, and the creation of the Umayyad dynasty under Muawiyah I. The ongoing ramifications of the division are significant, impacting geopolitical relations and internal conflicts in the Middle East today. [1]
 
-San Francisco is described as "the global summit of coffee culture" and "the world over the summit of coffee culture" [1]. The city is the birthplace of several coffee milestones:
+### Historical Origins and Development of Ibadi Islam
 
-- **Wrecking Ball Coffee Roasters** — where Trish Rothgeb introduced the "waves of coffee" terminology that "changed the industry forever" [1].
-- The West Coast's first encounter with **Yemeni coffee** [1].
-- The birthplace of **Irish Coffee** [1].
-- The introduction of **Italian espresso culture** to the United States [1].
-- The invention of **vacuum-sealed coffee** [1].
+Ibadi Islam or Ibadhism is a distinct school of Islam and is commonly regarded as the third Islamic branch, alongside Sunni Islam and Shia Islam. Its roots go back to the Kharijite secession from Ali, the Prophet Muhammad’s cousin and son-in-law who was the first Shia Imam and the fourth Sunni Rashidun caliph. Contemporary Ibadis generally reject the characterization of their faith as Kharijites. Ibadis originated as a moderate branch of the Kharijites, an Islamic sect that originally split from the early dissenters known as the Muhakkima. These groups initially supported Ali during the First Fitna but withdrew their allegiance after rejecting the arbitration at the Battle of Siffin in 657 AD. From the Ibadi perspective, this original movement represented the only faction striving to restore the just Islamic Imamate as it existed during the time of Abu Bakr, Umar, the first six caliphs. The Ibadi infobox lists founder Abdallah ibn Ibad, origin c. AD 692, Basra, classification Muhakkima, type School of Islam, theology Monotheism, and members c. 3,000,000. During Jabir’s leadership, a new schism arose within the Ibadis themselves. Because the schism caused a rift with the governor of Iraq, al-Hajjaj, Jabir and his followers moved to Oman. Today Ibadis represent the largest religious group in Oman, though their numbers are hard to assess.
 
-In 2026, Yemeni coffee trends surged with **Haraz Coffee** and **Mokhtar Alkhanshile's** upcoming waterfront cafe, building on **Delah's** pioneering spiced coffee pot — the eponymous "delah" that "sparked the movement" [1].
+## Core Theological and Legal Differences and Major Schools
 
-The city has over **300 cafés**, and its coffee scene "rivals Seattle and Portland" [3].
+### Sunni Islam
 
----
+The Sunni theological schools are broad schools including Ash’ari, Maturidi, and Salafi. Sunni Islam has four major legal schools, often referred to as madhhabs: Hanafi, Maliki, Shafi’i, and Hanbali. The four Sunni schools agreed upon the four primary sources: the Qur’an, the Sunnah, consensus (ijmā’), and analogy (qiyās), and this agreement was established unanimously. The four Sunni schools differed in the partial evaluation of each of these evidences, both in their wording and implications, as well as in many other issues related to linguistic indications and methodologies addressed by usul al-Fiqh. The differences between the Sunni schools arose from methodology, not fundamentals. The founder of the Shafi’i school is Muhammad ibn Idris Ash-Shafi (150–204 AH). The Maliki school is based on the juristic rulings derived by Imam Mālik (93–179 AH). The Maliki school also relies on the practice of the people of Madinah and on considerations of public interest, in addition to the foundational sources agreed upon by all imams. The Hanafi, Shafi’i, and Maliki madhhabs are three of the four Sunni schools. The Shafi’i school emphasizes strict adherence to the Qur’an, Sunnah, consensus (ijmā’), and analogy in a clear hierarchy, and is often seen as a bridge between hadith-based and reason-based methods. The Maliki school relies heavily on the practice of the people of Medina as a reflection of the Prophet’s tradition, along with the Qur’an, Sunnah, consensus, and analogy. Although their methodologies differ, scholars of these madhhabs historically held deep mutual respect. Disagreements were treated as differences in interpretation, not divisions in faith. The Hanafi madhhab is the school of Islamic juristic reasoning. Differences in fiqh include rulings on purity and ritual matters, such as the status of dogs and ritual purity, as well as differences about procedures such as the pointing gesture during prayer. The Shafi’i and Hanbali madhhabs held that the entire dog is najis, not just its saliva, while the Maliki madhhab considered the entire dog taahir, or pure, because of a different evidence. The Hanafi, Shafi’i, and Hanbali madhhabs agreed that the index finger is pointed only when saying the tashahhud, but all four schools of Islamic jurist reasoning differed about when and how. According to the Shafi’i school, one points with the finger only once, when saying “except Allaah.” The ruling of prostration of forgetfulness was obligatory according to the Hanafi school, recommended according to the Maliki and Shafi’i schools, and the Hanbali school had two opinions.
 
-### Coffee Shops Evaluated by Coffee Quality
+### Shia Islam
 
-#### 1. Linea Caffe (Mission District / Dogpatch)
+The Shia emphasis is a strong emphasis on divine guidance through Imams. The Imam for Shia Islam must be from the Prophet’s family. The Shia view is similar to the Sunni view in some respects, but it includes a stronger spiritual authority of the Imams. The Shia theological approach therefore places significant importance on the succession and divinely guided leadership that is central to Shia Islam.
 
-- **Espresso quality:** Called the "gold standard" for "perfectly pulled espresso and micro-foam cappuccino" [3]. The espresso is described as "*chef's kiss*: perfectly pulled, beautifully balanced, with that gorgeous crema that tells you they know what they're doing" [3].
-- **Overall ranking:** "My top picks include Linea Caffe (best overall)" [3]. "Linea delivers a coffee experience that is top-notch and probably my favorite in the city" [3].
-- **Owner/roaster:** Andrew Barnett's Mission District espresso expertise; roaster near Mission Bay [1].
-- **Milk options:** "Silky almond milk" and "red ceramic cups" [2].
-- **Sustainability note:** "Linea only has disposable cups, so don't forget to bring your own (which attracts a 25% discount)" [7].
-- **Recent status:** Added to Eater SF's curated list of 17 best coffee shops [1].
+### Ibadi Islam
 
-#### 2. Ritual Coffee Roasters (Valencia Street flagship; Hayes Valley; Mission; outposts in Napa and SFO)
+Ibadi Islam is a distinct school of Islam with its own doctrine defined by Jabir, who collected the Ibadi hadith and defined the Ibadi doctrine. The Ibadi theological approach is described as moderate, emphasizing justice and community. The leadership for Ibadi Islam is chosen by the community based on merit; for Sunni Islam it is chosen by consensus or tradition; for Shia Islam the Imam must be from the Prophet’s family. The Ibadi view on major sins is that serious sinners may lose status in the community but are not automatically considered non-Muslim. The political structure of Ibadi Islam in its early form is described as a form of religious democracy with a leader who possibly could be removed; Sunni Islam historically supported the caliphate, while Shia Islam often developed parallel religious authority structures. The Ibadi relations with other sects are described as historically more neutral and moderate, while the Sunni tradition is described as a broad majority tradition with diverse views, and Shia Islam has a strong emphasis on the historical succession dispute.
 
-- **Heritage:** "A pioneer of SF specialty coffee since 2005" [3]. "Ritual is basically the godfather of San Francisco's specialty coffee movement" [3].
-- **Ownership/ethics:** Woman-owned, sustainably sourced, direct-trade beans [2][3].
-- **Reputation:** Emphasizes sustainability and direct-trade beans; flagship on Valencia Street opened in 2005 [2][3].
-- **Signature approach:** Focus on transparency and quality sourcing [3].
+Unlike the Sunni theory of the caliphate of the Rashidun and the Shia notion of divinely appointed Imamate, the leaders of Ibadi Islam—called Imams—do not need to rule the entire Muslim world; Muslim communities are considered capable of ruling themselves. The Ibadis reject the belief that the leader of the Muslim community must be descended from the Quraysh tribe. This differs from the Sunni belief and also the Shia belief, which holds that ideally and eventually Muslims will be ruled by the Mahdi, or descendant of the Prophet.
 
-#### 3. Four Barrel Coffee (Mission District)
+## Global Population Shares and Geographic Distributions
 
-- **Espresso quality:** "Praised for its smooth espresso, latte art" [2].
-- **Bean sourcing:** "Beans sourced from Latin America, Indonesia and East Africa" [2].
-- **Format:** "Unusual in that it has two counters. The main one... offering the Friendo Blendo seasonal house-blend on espresso... Alternatively, to the left of the door, is the 'slow bar'. This offers five single-origins on pour-over and another on espresso" [7].
-- **Availability:** "Also available at San Francisco favorites like Dynamo Donut or The Mill" [2].
-- **Personal endorsement:** "If I *had* to pick a favorite on this list - Four Barrel would be it" [2].
+Of the total Muslim population, 10–13% are Shia Muslims and 87–90% are Sunni Muslims. The vast majority of the 1.6 billion Muslims in the world are Sunni, according to a 2009 study by the Pew Research Center. Between 10% and 13% are Shia Muslims, and 87% to 90% are Sunni Muslims. Sunni Muslims are present in more countries and regions throughout the world, whereas most Shia Muslims live in four countries: Iran, Pakistan, India, and Iraq. Most Shias, between 68% and 80%, live in four countries: Iran, Pakistan, India, and Iraq. Iran has 66 million to 70 million Shias, or 37–40% of the world’s total Shia population. Iraq, India, and Pakistan each are home to at least 16 million Shias. Between 116 million and 147 million Shias live in Asia, representing about three-quarters of the world’s Shia population. Meanwhile, nearly a quarter of the world’s Shias, or 36 million to 44 million, live in the Middle East–North Africa region. Between 12% and 15% of the Muslim population in the Asia-Pacific region is Shia, as is 11% to 14% of the Muslim population in the Middle East–North Africa region.
 
-#### 4. Blue Bottle Coffee (Ferry Building flagship)
+The Ibadi population figures vary by source. There are roughly 3 million Ibadis worldwide, of which roughly 250,000 live outside Oman. The Ibadism infobox lists Ibadis members as c. 3,000,000. LookLex describes Ibadi as a branch of Islam with almost 2.8 million adherents in the Middle East and North Africa. Ibadi population figures vary by source, including approximately 2.72 million, approximately 2.76 million or “almost 2.8 million,” roughly 3 million, or c. 3,000,000. Oman does not publish census data by religious branch, so all Ibadi figures are estimates. The territory of Ibadis includes Oman; Algeria (the Mzab); Libya (the Nafusa); Tunisia (Djerba); and Tanzania (Zanzibar). The M’zab valley in Algeria, Djerba in Tunisia, the Nafusa mountains in Libya, and Zanzibar are regions where Ibadis are found. In Oman the Grand Mufti heads religious affairs within the state. In North Africa the communities of the M’zab, Djerba, and the Nafusa mountains keep their own regional forms of organization. In East Africa the Ibadi imprint remains on Zanzibar from the era of Omani rule over the island. There is no single center for all Ibadi communities.
 
-- **Flagship location:** Ferry Building [2].
-- **Recommended pairing:** "Liege waffle paired with a Bay Bridge view" [2].
-- **Reputation:** International third-wave brand; rigorous bean selection, precise grind, hand-crafted pour-over; known for clean, bright flavors and excellent balance between roast and origin notes.
-- **Context:** "The city's coffee landscape is dominated by small, local coffee shop/roaster chains, along with the international Bluebottle, which calls the city home" [7].
+## Open Considerations
 
-#### 5. Flywheel Coffee Roasters (22 Battery St.; Haight-Ashbury; 3 locations total)
+The research did not fully resolve several dimensions that fall outside the explicitly specified scope. These include specific modern political contexts, comparative theology with other religions, detailed intra-branch sectarian variations beyond the major schools, and reliable dated Ibadi global population figures and Oman census data by religious branch. These matters should be treated as open considerations rather than assumed requirements in the overall research brief.
 
-- **Founder:** "Founded by coffee-farmer entrepreneur Aquiles Guerrero" [4].
-- **Roasting:** "Small-batch, on-site roasting"; "roasted twice a week in the back of the store on a 15 kg Joper from Portugal" [4][7].
-- **Equipment:** "The espresso machine, a Mk II Slayer, is about as cutting edge as they come" [7].
-- **Menu:** Pour-over, signature flyblend espresso, house-cold brews, rotating pastries (donuts, empanadas), retail bagged beans [4].
-- **Filter options:** "Four seasonal single-origins on filter. Refreshingly, there's no batch-brew. Instead everything's available through either the V60 or, unusually, the syphon" [7].
-- **Sustainability:** Prioritizes sustainable practices [4].
-- **Yelp review:** "Got an affogato after lunch, it was $8 and it was super good, the espresso is high quality" — Farhana M. [4].
+## Conclusion
 
-#### 6. Andytown Coffee Roasters (Outer Sunset)
+The three main branches of Islam are Sunni Islam, Shia Islam, and Ibadi Islam. The Sunni-Shia split originated in the seventh century from disputes over succession after the death of the Prophet Muhammad, with the first key milestone being the rise of the Safavid dynasty in the 16th century, which transformed Iran into a Shia stronghold. The Ibadi branch traces its roots to the Kharijite secession from Ali and later developed its own doctrine and leadership practices. Core differences include Sunni reliance on consensus and broad theological schools, Shia emphasis on divine guidance through Imams, and Ibadi emphasis on justice and community-based leadership. The four Sunni schools are Hanafi, Maliki, Shafi’i, and Hanbali, while the largest population shares are estimated as Sunni at 87–90% and Shia at 10–13% of Muslims. Ibadi Muslims are estimated at roughly 3 million worldwide, with the largest population in Oman.
 
-- **Signature drink:** "Iconic Snowy Plover" — a coffee float [1][3].
-- **Reputation:** Known for single-origin pour-over and fresh, locally roasted beans; "community-focused" [1].
+## Sources
 
-#### 7. Paper Son (Downtown FiDi/SoMa border; Dogpatch)
-
-- **Concept:** "Multi-roaster cafe" featuring local roasters Hydrangea, Moonwake [6].
-- **Signature drinks:** "Coffee-forward drinks and seasonal specialties such as the Thai Tea Cloud, Pandan Aerocano, and Guava pillow" [6].
-- **Pour-over program:** "Rotating Sunday pour overs at its Dogpatch location; downtown closed weekends" [6].
-- **Endorsement:** "The author's top pick for downtown SF" [6].
-
-#### 8. The Coffee Movement (Chinatown/Nob Hill; Richmond; multiple locations)
-
-- **Heritage:** "The city's original specialty coffee shop" [6]; "now has multiple locations" [3].
-- **Signature drink:** "Milky Cake, a famous thermal shock DAK coffee that is sort of like drinking a pastry" [6].
-- **Menu:** "Straightforward menu with batch brew (three options, including premium like Milky Cake thermal shock coffee)" [6].
-- **Roaster relationships:** Multi-roaster with global roasters (Black & White, DAK) [6].
-- **Pour-over:** "Washington St. location no pour-over; Inner Richmond location offers pour-over (e.g., funky Black & White 'Jurassic' gesha)" [6].
-- **Industry impact:** "Many newer shop owners trained here" [6].
-- **Atmosphere:** "Silky lattes and a bright, Instagram-friendly atmosphere" [3].
-
-#### 9. Sightglass Coffee (7th Street flagship, SoMa)
-
-- **Space:** "Two-level industrial space" [2]; "industrial-chic SoMa space" [3].
-- **Roast profile:** "Light roasts" [2].
-- **Special feature:** "Affogato bar at its 7th Street flagship" [2].
-- **Notable roast:** "Sightglass Coffee Banner Dark: San Francisco dark roast blend of Central and South American beans" — prepared as semi-stretto espresso (20g dose, 25–30 seconds, ~30g yield), tasting notes: "roastiness, dark caramel, and dark cherry syrup" [5].
-- **Endorsement:** Featured in Seattle Coffee Gear's "Top 4 Coffee Roasts of 2025" as the "richest roast" [5].
-
-#### 10. Wrecking Ball Coffee Roasters (Historic Mission District)
-
-- **Heritage:** Birthplace of "waves of coffee" terminology; historic, sustainably sourced [1][2].
-- **Signature aesthetic:** "Pineapple wallpaper and Instagram-worthy photos" [2].
-- **Yemeni connection:** "The West Coast's first encounter with Yemeni coffee" [1].
-
-#### 11. Saint Frank Coffee (Russian Hill)
-
-- **Aesthetic:** "Minimalist aesthetic" [1].
-- **Coffee description:** "The 'Dungeness crab' of SF coffee" [1]; "tea-like Bolivian blends" [1].
-- **Drink offerings:** "Espresso tonic on Russian Hill" [3]; "premium nut milks" [2].
-
-#### 12. Philz Coffee (Multiple locations)
-
-- **Style:** "Made-to-order pour-over" [2].
-- **Recommended beans:** "Tesora, Silken Soul (a blend of Silken Splendor & Philtered Soul), and the Mission Cold Brew" [2].
-
-#### 13. SPRO Coffee Lab (Dogpatch; Financial District)
-
-- **Style:** "Cocktail-inspired drinks" [3].
-- **Status:** Departed Eater SF's list but noted in AskMeSF 2026 [1][3].
-
-#### 14. Equator Coffee (near Presidio)
-
-- **Signature drinks:** "Shakerato and Habibi Latte" [3].
-
-#### 15. Kopê House (Hayes Valley)
-
-- **Signature drink:** "Passionfruit cappuccino" [3]. "Get the passionfruit cappuccino" [3].
-
-#### 16. Hi NRG (Geary; Inner Richmond)
-
-- **Concept:** "Pop-up run by owner-operated baristas Luis and Nathan inside High Treason wine bar on Clement St" [6].
-- **Menu:** "Simple menu of one espresso, one batch brew, and one pour over, plus specials like cafe de olla" [6].
-- **Roaster relationships:** "Using coffees from Hydrangea and PushxPull" [6].
-- **Additional:** "Now with wine service" [3].
-- **Cultural drinks:** "Hong Kong-inspired lattes" [1].
-
-#### 17. Caffe Trieste (North Beach)
-
-- **Features:** "A Godfather haunt with mosaic tiles, wild parrots, and cannoli" [1].
-
-#### 18. Capital One Cafe
-
-- **Features:** "A bank-branch remote-work fortress with Verve Coffee Roasters beans and private group rooms" [1].
-
-#### 19. Excelsior Coffee
-
-- **Feature:** "Strong non-dark roasts" [1].
-
-#### 20. Cafe Réveille (Mission Bay; multiple locations)
-
-- **Origin:** "Originally a coffee truck now with multiple locations" [2].
-- **Setting:** "Pink-table outdoor spot in Mission Bay" [2].
-- **Building:** "Occupies a wedge-shaped building on the corner where Kearny Street intersects Columbus Avenue at 45°" [7].
-
-#### 21. Home Cafe
-
-- **Feature:** "Creative lattes such as the birthday cake latte" [2].
-
-#### 22. Marigold Cafe (Mission)
-
-- **Concept:** "New coffee-and-flower concept in Mission serving Heart Roasters coffee and seasonal pastries" [2].
-
-#### 23. Ikon (Dogpatch)
-
-- **Feature:** "Sunny Dogpatch café" [3].
-
-#### 24. Delah Coffee House
-
-- **Significance:** "Delah's pioneering spiced coffee pot, the eponymous 'delah' that sparked the [Yemeni coffee] movement" [1].
-
-#### 25. Better Half Coffee, Golden Goat, Pinhole Coffee
-
-- **Status:** Added to Eater SF's curated list of 17 best coffee shops [1].
-
-#### 26. Hey Neighbor Cafe (Bayview)
-
-- **Features:** "Community-focused concepts like Hey Neighbor Cafe (Bayview, Rize Up bread, cat co-owner)" [1].
-
-#### 27. The Coffee Movement at Side A
-
-- **Features:** "Cyclist-friendly with lavender ice cream and doughnuts" [1].
-
----
-
-### Coffee Roasts Highlighted in 2025
-
-From Seattle Coffee Gear's "The BEST Coffee Roasts of 2025" [5]:
-
-| Roaster | Coffee | Profile | Brewing Method | Tasting Notes |
-|---------|--------|---------|----------------|---------------|
-| Counter Culture | Big Trouble | Medium-dark blend (50% Honduras, 50% Nicaragua) | French press, 1:17 ratio (30g:510g water, 4 min) | "Super nutty and sweet... pure sort of like almond tone"; "total crowdpleaser" |
-| Sightglass Coffee | Banner Dark | Dark roast blend of Central & South American beans | Semi-stretto espresso (20g dose, 25–30 sec, ~30g yield), Atom W65 grinder, Deleta Alto machine | "Roastiness, dark caramel, and dark cherry syrup"; "I really enjoy dark roasted coffee. I think dark roasts get a bad rap" |
-| Coffee Manufactury | 03 Africa (Ethiopia Guji) | Light roast, natural process, direct farmer relationships, sustainability | V60 pour-over (30g dose, ~490g water, 204–205°F) | "Tea-like body with blueberry tart, mango, and juicy blueberry notes"; "For single origin coffees like this, this is a black coffee drink. I don't want to add anything to it" |
-| Klatch Coffee | Decaf Espresso | Decaf | — | "Surprisingly good decaf" honorable mention |
-
----
-
-### Evaluation Dimensions (Derived from Sources)
-
-**Bean origin & sourcing:**
-- Ritual: direct-trade, sustainably sourced [2][3]
-- Four Barrel: Latin America, Indonesia, East Africa [2]
-- Flywheel: small-batch, on-site roasting, sustainable [4][7]
-- Coffee Manufactury: Ethiopia Guji, direct farmer relationships [5]
-
-**Roast precision:**
-- Sightglass: light roasts [2]; Banner Dark dark roast [5]
-- Coffee Manufactury: natural-processed light roast [5]
-- Counter Culture: medium-dark blend [5]
-
-**Espresso quality:**
-- Linea: "perfectly pulled, beautifully balanced, gorgeous crema" [3]
-- Four Barrel: "smooth espresso, latte art" [2]
-- Flywheel: "espresso is high quality" [4]
-
-**Pour-over / filter craft:**
-- Andytown: single-origin pour-over [1]
-- Paper Son: Sunday pour-overs at Dogpatch [6]
-- The Coffee Movement: Inner Richmond pour-over (Black & White "Jurassic" gesha) [6]
-- Flywheel: V60 or syphon, no batch-brew [7]
-
-**Signature innovative drinks:**
-- Blue Bottle: Liege waffle pairing [2]
-- Paper Son: Thai Tea Cloud, Pandan Aerocano, Guava pillow [6]
-- The Coffee Movement: Milky Cake (thermal shock DAK) [6]
-- Kopê House: Passionfruit cappuccino [3]
-- Hi NRG: Cafe de olla [6]
-- Andytown: Snowy Plover float [1][3]
-- Equator: Shakerato, Habibi Latte [3]
-- Saint Frank: Espresso tonic [3]
-
-**Reputation / longevity:**
-- Ritual: "godfather of San Francisco's specialty coffee movement" [3]
-- Linea: "gold standard" [3]
-- The Coffee Movement: "the city's original specialty coffee shop" [6]
-- Four Barrel: personal favorite of Sugar & Stamps author [2]
-
----
-
-### Key Endorsements (Verbatim)
-
-- "Linea delivers a coffee experience that is top-notch and probably my favorite in the city. The espresso here is *chef's kiss*: perfectly pulled, beautifully balanced, with that gorgeous crema that tells you they know what they're doing." [3]
-- "Ritual is basically the godfather of San Francisco's specialty coffee movement." [3]
-- "If I *had* to pick a favorite on this list - Four Barrel would be it." [2]
-- "Got an affogato after lunch, it was $8 and it was super good, the espresso is high quality" — Farhana M. [4]
-- "The coffee world is evolving... many of the exciting coffee shop openings in the past few years or so are bringing their own personal experience and cultural context to their coffee offerings" [6]
-- "One of my favorite things in the world is an owner-operated business where the people are clearly very passionate about the product or service they're working with and could spend hours waxing poetic about it" [6]
-- "Their seasonal drinks are magical, and there were truly too many to choose from" [6]
-- "Milky Cake, a famous thermal shock DAK coffee that is sort of like drinking a pastry" [6]
-- "For single origin coffees like this, this is a black coffee drink. I don't want to add anything to it. No cream, no sugar, no milk." [5]
-
----
-
-## List of All Relevant Sources
-
-[1] **Eater SF — "San Francisco's Best Coffee Shops"**  
-URL: https://sf.eater.com/maps/best-coffee-shops-san-francisco  
-*Covers historic coffee culture, Wrecking Ball, Yemeni coffee, 17-shop curated list, Caffe Trieste, Capital One Cafe, Saint Frank, Linea, Hi NRG, Paper Son, Excelsior Coffee, Hey Neighbor Cafe, The Coffee Movement at Side A. Associate editor Paolo Bicchieri, additional reporting by Dianne de Guzman.*
-
-[2] **Sugar & Stamps — "Best Coffee Shops in San Francisco"**  
-URL: https://www.sugarandstamps.com/blog/best-coffee-shops-in-san-francisco  
-*Lists Andytown, Blue Bottle, Cafe Réveille, Flywheel, Four Barrel, Hollow, Home Cafe, Linea, Marigold, Philz, Ritual, Saint Frank, Sightglass, The Coffee Movement, Wrecking Ball. Includes bean preferences (Tesora, Silken Soul, Mission Cold Brew) and personal endorsement of Four Barrel.*
-
-[3] **AskMeSF 2026 — "Best Coffee Shops & Cafes in San Francisco: A Local's Top 10"**  
-URL: https://askmesf.com/best-coffee-shops-sf  
-*Ellen's guide, last updated November 2026. Ranks Linea Caffe best overall (gold standard espresso), Ritual pioneer, Coffee Movement, Andytown, Equator, SPRO, Saint Frank, Sightglass, Ikon, Hi NRG, Kopê House. Includes verbatim endorsements.*
-
-[4] **MapQuest — Flywheel Coffee Roasters**  
-URL: https://www.mapquest.com/us/california/flywheel-coffee-roasters-649710522  
-*Details Flywheel's three locations, founder Aquiles Guerrero, small-batch on-site roasting, sustainable sourcing, menu (pour-over, flyblend espresso, cold brew, pastries), Yelp review by Farhana M. ($8 affogato, high-quality espresso).*
-
-[5] **Seattle Coffee Gear — "The BEST Coffee Roasts of 2025! (SCG Top 3 Picks)"**  
-URL: https://www.youtube.com/watch?v=5tQ35BAfPH8&vl=en  
-*YouTube video posted October 11, 2025. Reviews Counter Culture Big Trouble, Sightglass Banner Dark, Coffee Manufactury 03 Africa, Klatch Decaf Espresso. Includes brewing parameters, tasting notes, and host commentary.*
-
-[6] **Wheatless Wanderlust — "Exactly Where to Find Excellent Coffee in San Francisco"**  
-URL: https://wheatlesswanderlust.com/best-specialty-coffee-san-francisco  
-*Personal coffee blog by an amateur home brewer. Covers HI-NRG (pop-up in High Treason wine bar, Hydrangea/PushxPull beans, cafe de olla), Paper Son (top downtown pick, multi-roaster, Thai Tea Cloud, Pandan Aerocano, Guava pillow, Sunday pour-overs), The Coffee Movement (original specialty shop, Milky Cake thermal shock DAK, Black & White/DAK roasters, Washington St. vs Inner Richmond locations).*
-
-[7] **Brian's Coffee Spot — "The Coffee Spot Guide to San Francisco"**  
-URL: https://www.brian-coffee-spot.com/the-coffee-spot-guide-to/usa-canada/san-francisco  
-*Curated guide based on visits since 2017 (first visit 2005). Covers Flywheel (15 kg Joper, Mk II Slayer, four seasonal single-origins, V60/syphon, no batch-brew), Four Barrel (two counters, Friendo Blendo, slow bar with five single-origins), Linea (disposable cups, 25% discount), Réveille (wedge-shaped building).*
-
----
-
-*All information preserved verbatim from source excerpts and summaries. No details, names, numbers, or findings have been omitted or paraphrased.*
+- [1] Islam’s Sunni-Shia Divide, Explained: https://www.history.com/articles/sunni-shia-divide-islam-muslim
+- [2] Mapping the Global Muslim Population: https://www.pewresearch.org/religion/2009/10/07/mapping-the-global-muslim-population
+- [3] Differences Between Shia and Sunni Muslims: https://www.businessinsider.com/the-differences-between-shia-and-sunni-muslims-2015-10
+- [4] Ibadism: https://en.wikipedia.org/wiki/Ibadism
+- [5] Ibadi: http://looklex.com/e.o/ibadi.htm
+- [6] Four Madhabs in Islam: Hanafi, Maliki, Shafi & Hanbali: Complete Guide: https://www.jannatalquran.com/2025/09/21/four-madhabs-in-islam
+- [7] Differences in Fiqh Made Easy, Part I & II: https://raleighmasjid.org/wp-content/uploads/2021/07/Differences_in_Fiqh_Made_Easy_Part_I__II.pdf
+- [8] Ibadi Islam vs Sunni & Shia Islam – 10 Key Differences: https://www.facebook.com/100092196197329/posts/ibadi-islam-vs-sunni-shia-islam-10-key-differences-ibadi-islam-is-one-of-the-ol/898944989855366
